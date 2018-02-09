@@ -1,0 +1,1 @@
+{"jpsType":"update","application":{"name":"LogTest","onInstall":{"log":"${env.name}"}}}
